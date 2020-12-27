@@ -1,0 +1,107 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-link fa-lg",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis itaque iste accusamus"
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-lg",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis itaque iste accusamus"
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer-alt fa-lg",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis itaque iste accusamus"
+    }
+  ],
+  "protfolio": [
+    {
+      "id": 1,
+      "image": "images/a (1).jpg"
+    },
+    {
+      "id": 2,
+      "image": "images/a (2).jpg"
+    },
+    {
+      "id": 3,
+      "image": "images/a (3).jpg"
+    },
+    {
+      "id": 4,
+      "image": "images/a (4).jpg"
+    },
+    {
+      "id": 5,
+      "image": "images/a (4).jpg"
+    },
+    {
+      "id": 6,
+      "image": "images/a (3).jpg"
+    },
+    {
+      "id": 7,
+      "image": "images/a (2).jpg"
+    },
+    {
+      "id": 8,
+      "image": "images/a (1).jpg"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fab fa-facebook-f",
+      "title": "follow me on",
+      "body": "social facebook",
+      "className": "facebook"
+    },
+    {
+      "id": 2,
+      "icon": "icon fab fa-twitter",
+      "title": "tweet me on",
+      "body": "social twitter",
+      "className": "twitter"
+    },
+    {
+      "id": 3,
+      "icon": "icon fab fa-pinterest-p",
+      "title": "pin me on",
+      "body": "social pinterest",
+      "className": "pint"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "moath alnajjar",
+      "birthdat": "march, 14, 1993",
+      "address": "gaza",
+      "phone": "0597729262",
+      "email": "moaalnajjar@gmail.com",
+      "website": "www.moathdev.website"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "bootstrap",
+      "percentage": "90%"
+    },
+    {
+      "id": 2,
+      "name": "wordpress",
+      "percentage": "70%"
+    },
+    {
+      "id": 3,
+      "name": "seo",
+      "percentage": "80%"
+    }
+  ]
+}
